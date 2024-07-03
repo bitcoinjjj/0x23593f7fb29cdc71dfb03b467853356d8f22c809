@@ -1,11 +1,11 @@
 {
- "name": "BitTV Coin",
- "website": "https://www.bittv.co",
- "description": "With the box office of the short play market expected to exceed 50 billion in 2024, the first Web3 short play platform - BitTV (Bit short play) came into being. BitTV is committed to providing a new kind of fragmented entertainment for blockchain users around the world.",
- "explorer": "https://bscscan.com/token/0xD1Cb0F34a7924328BC2E7961A17209c54f17CfE6",
- "type": "BEP20",
- "symbol": "BTV",
+ "name": "DORK LORD",
+ "website": "https://www.dorklerc.com",
+ "description": "Dork Lord is here to take over the Ethereum chain. Pepe has long been causing trouble over there.",
+ "explorer": "https://etherscan.io/token/0x23593f7fb29cdc71dfb03b467853356d8f22c809",
+ "type": "ERC20",
+ "symbol": "DORKL",
  "decimals": 18,
  "status": "active",
- "id": "0xD1Cb0F34a7924328BC2E7961A17209c54f17CfE6"
+ "id": "0x23593f7fb29cdc71dfb03b467853356d8f22c809"
 }
